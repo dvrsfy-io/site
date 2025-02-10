@@ -1,2 +1,2 @@
-#20250210#
+# 20250210
 Hello. I am learning Hugo with this.
