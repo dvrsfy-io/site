@@ -1,0 +1,17 @@
+{
+    "name": "Hugo Codespace",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "terminal.integrated.shell.linux": "/bin/bash"
+            },
+            "extensions": [
+                "vscodevim.vim",
+                "shd101wyy.markdown-preview-enhanced"                
+            ]
+        }
+    }
+}
